@@ -1,3 +1,3 @@
 # Datascience_capstone
 
-# This is sample project
+# This is a sample project
